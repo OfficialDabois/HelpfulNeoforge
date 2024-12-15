@@ -1,3 +1,4 @@
+//This should be placed in a class that extends ItemModelProvider
 private void ModelInHandFlatInGUI(Item item) {
   ResourceLocation itemLoc = BuiltInRegistries.ITEM.getKey(item);
 
